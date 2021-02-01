@@ -1,0 +1,1 @@
+(()=>{var o,e={85:o=>{console.log("工具"),o.exports={name:"m名字"}}},r={};o=function o(n){if(r[n])return r[n].exports;var s=r[n]={exports:{}};return e[n](s,s.exports,o),s.exports}(85),console.log("哈哈,heihei"),console.log("哈哈,hehe"),console.log(o)})();
